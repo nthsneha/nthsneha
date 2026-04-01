@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=AI+%26+Developer;Hackathon+Enthusiast;Backend+%7C+Data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=AI+Engineer;Hackathon+Enthusiast;Backend+%7C+Data" />
 </p>
 
 <h1 align="center">About Me</h1>
@@ -23,7 +23,7 @@
 
 > Location    : India 🇮🇳 
 > Interests   : Artificial Intelligence · Data Engineering· Backend Development
-> Currently   : Building AI pipelines, winning hackathons, learning every day
+> Currently   : Building AI pipelines, competing in hackathons, learning every day
 > Looking for : Interesting problems worth solving
 ```
 ---
@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <i>"Measuring programming progress by lines of code is like measuring airplane building progress by weight."</i><br>
+  <i>"Stay Hungry Stay Foolish"</i><br>
 </p>
