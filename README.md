@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nthsneha&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />&nbsp;&nbsp;
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nthsneha&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />&nbsp;&nbsp; -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nthsneha&theme=dracula&hide_border=true&area=true" height="160" alt="Contribution Graph" />
 </p>
 
