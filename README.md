@@ -18,14 +18,14 @@
 </p>
 
 ---
-
+```
 ## Profile Details
 
 > Location    : India 🇮🇳 
 > Interests   : Artificial Intelligence · Data Engineering· Backend Development
 > Currently   : Building AI pipelines, winning hackathons, learning every day
 > Looking for : Interesting problems worth solving
-
+```
 ---
 
 ## Technical Skills
