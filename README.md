@@ -22,7 +22,7 @@
 ## Profile Details
 
 > Location    : India 🇮🇳 
-> Interests   : Artificial Intelligence · Data Engineering· Backend Development
+> Interests   : Artificial Intelligence · Data Science
 > Currently   : Building AI pipelines, competing in hackathons, learning every day
 > Looking for : Interesting problems worth solving
 ```
